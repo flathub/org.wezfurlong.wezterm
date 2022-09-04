@@ -66,6 +66,14 @@
   <developer_name>Wez Furlong</developer_name>
 
   <releases>
+    <release version="20220903-194523-3bb1ed61" date="2022-09-03">
+      <description>
+        <p>
+          Improved performance, new emoji/NerdFont character selector,
+          bug fixes and more!
+        </p>
+      </description>
+    </release>
     <release version="20220807-113146-c2fee766" date="2022-08-07">
       <description>
         <p>
