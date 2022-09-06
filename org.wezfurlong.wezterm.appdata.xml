@@ -66,6 +66,14 @@
   <developer_name>Wez Furlong</developer_name>
 
   <releases>
+    <release version="20220905-102802-7d4b8249" date="2022-09-05">
+      <description>
+        <p>
+          Fixed a visual artifact when resizing panes, searching scrollback
+          is now incremental and shows progress, and more!
+        </p>
+      </description>
+    </release>
     <release version="20220904-064125-9a6cee2b" date="2022-09-04">
       <description>
         <p>
