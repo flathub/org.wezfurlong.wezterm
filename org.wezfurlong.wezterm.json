@@ -10,6 +10,7 @@
     "finish-args": [
         "--share=ipc",
         "--filesystem=home:ro",
+        "--filesystem=xdg-config/wezterm",
         "--socket=fallback-x11",
         "--socket=wayland",
         "--device=dri",
