@@ -46,8 +46,8 @@
                 {
                     "type": "archive",
                     "archive-type": "tar-gzip",
-                    "url": "https://github.com/wez/wezterm/releases/download/20220905-102802-7d4b8249/wezterm-20220905-102802-7d4b8249-src.tar.gz",
-                    "sha256": "5898af2bb2dbedcae2648764d5b7abd3d98b0aa3d05d171b09e0e3f76b7dd545"
+                    "url": "https://github.com/wez/wezterm/releases/download/20221119-145034-49b9839f/wezterm-20221119-145034-49b9839f-src.tar.gz",
+                    "sha256": "6ad923d48c76e5175128f40cd70d3a0c9fd2dc3e3f573af44b9c2ae7608ab7c4"
                 },
                 {
                   "type": "file",

@@ -66,6 +66,14 @@
   <developer_name>Wez Furlong</developer_name>
 
   <releases>
+    <release version="20221119-145034-49b9839f" date="2022-11-19">
+      <description>
+        <p>
+          Improved performance and resource utilization and a number
+          of new functions and features!
+        </p>
+      </description>
+    </release>
     <release version="20220905-102802-7d4b8249" date="2022-09-05">
       <description>
         <p>
