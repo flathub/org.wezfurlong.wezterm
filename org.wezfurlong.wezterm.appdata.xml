@@ -66,6 +66,15 @@
   <developer_name>Wez Furlong</developer_name>
 
   <releases>
+    <release version="20230320-124340-559cb7b0" date="2023-03-20">
+      <description>
+        <p>
+          A very long list of improvements to performance and
+          resource utilization as well as new features.
+          The changelog has a complete list!
+        </p>
+      </description>
+    </release>
     <release version="20221119-145034-49b9839f" date="2022-11-19">
       <description>
         <p>
