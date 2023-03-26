@@ -66,46 +66,12 @@
   <developer_name>Wez Furlong</developer_name>
 
   <releases>
-    <release version="20230320-124340-559cb7b0" date="2023-03-20">
+    <release version="20230326-132419-f26d377c" date="2023-03-26">
       <description>
         <p>
           A very long list of improvements to performance and
           resource utilization as well as new features.
           The changelog has a complete list!
-        </p>
-      </description>
-    </release>
-    <release version="20221119-145034-49b9839f" date="2022-11-19">
-      <description>
-        <p>
-          Improved performance and resource utilization and a number
-          of new functions and features!
-        </p>
-      </description>
-    </release>
-    <release version="20220905-102802-7d4b8249" date="2022-09-05">
-      <description>
-        <p>
-          Fixed a visual artifact when resizing panes, searching scrollback
-          is now incremental and shows progress, and more!
-        </p>
-      </description>
-    </release>
-    <release version="20220904-064125-9a6cee2b" date="2022-09-04">
-      <description>
-        <p>
-          Improved performance, new emoji/NerdFont character selector,
-          bug fixes and more!
-        </p>
-      </description>
-    </release>
-    <release version="20220807-113146-c2fee766" date="2022-08-07">
-      <description>
-        <p>
-          Featuring more powerful key and mouse bindings, new lua functions for
-          working with color, json, time, processes and windows, reduced
-          scrollback memory consumption, increased search performance, IME on
-          Wayland and more!
         </p>
       </description>
     </release>
