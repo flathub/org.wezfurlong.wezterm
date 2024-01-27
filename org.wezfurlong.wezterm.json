@@ -46,8 +46,8 @@
                 {
                     "type": "archive",
                     "archive-type": "tar-gzip",
-                    "url": "https://github.com/wez/wezterm/releases/download/20230712-072601-f4abf8fd/wezterm-20230712-072601-f4abf8fd-src.tar.gz",
-                    "sha256": "cecb56697f912826abea548e948950e7556ff7c706192fa304992811fe0245a8"
+                    "url": "https://github.com/wez/wezterm/releases/download/20240127-113634-bbcac864/wezterm-20240127-113634-bbcac864-src.tar.gz",
+                    "sha256": "96ac7699b1d355eea2e693addf6405c50394c5c0c889c91802c423c9221be103"
                 },
                 {
                   "type": "file",
