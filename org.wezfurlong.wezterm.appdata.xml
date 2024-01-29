@@ -4,8 +4,8 @@
   <id>org.wezfurlong.wezterm</id>
   <metadata_license>MIT</metadata_license>
   <project_license>MIT</project_license>
-  <name>Wez's Terminal Emulator</name>
-  <summary>A GPU-accelerated cross-platform terminal emulator and multiplexer</summary>
+  <name>WezTerm</name>
+  <summary>Powerful terminal and multiplexer</summary>
   <description>
     <p>
       WezTerm is a terminal emulator with support for modern features such as
@@ -66,7 +66,7 @@
   <developer_name>Wez Furlong</developer_name>
 
   <releases>
-    <release version="20240127-113634-bbcac864" date="2024-01-27">
+    <release version="20240128-202157-1e552d76" date="2024-01-28">
       <description>
         <p>
           A very long list of improvements to performance and

@@ -1,7 +1,7 @@
 {
     "app-id": "org.wezfurlong.wezterm",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "22.08",
+    "runtime-version": "23.08",
     "sdk": "org.freedesktop.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -46,8 +46,8 @@
                 {
                     "type": "archive",
                     "archive-type": "tar-gzip",
-                    "url": "https://github.com/wez/wezterm/releases/download/20240127-113634-bbcac864/wezterm-20240127-113634-bbcac864-src.tar.gz",
-                    "sha256": "96ac7699b1d355eea2e693addf6405c50394c5c0c889c91802c423c9221be103"
+                    "url": "https://github.com/wez/wezterm/releases/download/20240128-202157-1e552d76/wezterm-20240128-202157-1e552d76-src.tar.gz",
+                    "sha256": "37885e0c0399e4d80524bd8a41444ce67a2fd85cb1f56b7c6707de7a79e7824c"
                 },
                 {
                   "type": "file",
