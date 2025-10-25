@@ -66,6 +66,9 @@
   <developer_name>Wez Furlong</developer_name>
 
   <releases>
+    <release version="20251025-070338-b6e75fd7" date="2025-10-25">
+      <description></description>
+    </release>
     <release version="20240203-110809-5046fc22" date="2024-02-03">
       <description>
         <p>

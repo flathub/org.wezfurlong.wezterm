@@ -38,16 +38,15 @@
                 "install -Dm755 ./target/release/wezterm-gui -t /app/bin/",
                 "install -Dm755 ./target/release/wezterm-mux-server -t /app/bin/",
                 "install -Dm755 ./target/release/strip-ansi-escapes -t /app/bin/",
-                "install -Dm644 assets/shell-integration/* -t /app/extra/export/share/etc/profile.d",
-                "install -Dm644 assets/shell-completion/zsh /app/extra/export/share/zsh/site-functions/_wezterm",
-                "install -Dm644 assets/shell-completion/bash /app/extra/export/share/etc/bash_completion.d/wezterm"
+                "install -Dm644 assets/shell-integration/* -t /app/etc/profile.d",
+                "install -Dm644 assets/shell-completion/zsh /app/share/zsh/site-functions/_wezterm",
+                "install -Dm644 assets/shell-completion/bash /app/share/bash-completion/completions/wezterm"
               ],
             "sources": [
                 {
-                    "type": "archive",
-                    "archive-type": "tar-gzip",
-                    "url": "https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22-src.tar.gz",
-                    "sha256": "df60b1081d402b5a9239cc4cef16fc699eab68bbbeac9c669cb5d991a6010b2c"
+                    "type": "git",
+                    "url": "https://github.com/wezterm/wezterm.git",
+                    "commit": "b6e75fd7c8f9c9ad5af4efbba1d28df0969f6b17"
                 },
                 {
                   "type": "file",
